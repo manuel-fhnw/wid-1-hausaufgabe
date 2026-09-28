@@ -1,3 +1,74 @@
 .App {
   font-family: sans-serif;
 }
+
+#_Container_ {
+  display: flex;
+  flex-direction:row;
+  gap: 40px;
+}
+
+#_Spalten_ {
+  width: 50%;
+  flex: 1;
+}
+
+#Box {
+  border: solid 1px black;
+  background-color: #F2F2F2;
+}
+
+h1{
+  font-family: serif;
+  font-weight: normal;
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+h2{
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #D9D9D9;
+  padding: 8px 0;
+  margin: 10px;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: black;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+#Text {
+  text-align: justify;
+  hyphens: auto;
+  font-size: 16px; 
+}
+
+#Beschreibung {
+  text-align: justify;
+  hyphens: auto;
+  font-size: 16px;
+  font-weight: bold; 
+  margin: 10px;
+}
+
+#Detail {
+  text-align: justify;
+  hyphens: auto;
+  font-size: 16px; 
+  padding: 10px 0;
+}
+
+.fit-picture {
+  display: block;
+  margin: 10px auto;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
