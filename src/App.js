@@ -27,7 +27,7 @@ export default function App() {
               <div className="Zeile">
                 <div id="Detail">1. Januar 2006</div>
                 <div id="Detail">Kantone <a href="https://de.wikipedia.org/wiki/Kanton_Aargau" target="_blank" rel="next">Aargau</a>, <a href="https://de.wikipedia.org/wiki/Kanton_Basel-Landschaft" target="_blank" rel="next">Basel-Landschaft</a>, <a href="https://de.wikipedia.org/wiki/Kanton_Basel-Stadt" target="_blank" rel="next">Basel-Stadt</a>, <a href="https://de.wikipedia.org/wiki/Kanton_Solothurn" target="_blank" rel="next">Solothurn</a></div>
-                <div id="Detail">Windisch AG, Muttenz, Olten, Basel</div>
+                <div id="Detail">Windisch AG, Muttenz, Olten,</div>
               </div>
 
 
